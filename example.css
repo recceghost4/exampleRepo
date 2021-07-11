@@ -1,0 +1,39 @@
+.green {
+  color: #6db33f;
+}
+
+.submitButton {
+  color: blue;
+  background-color: aqua;
+}
+
+.navBar {
+  margin: 40px;
+}
+
+.navBarUL {
+  font-size: 16px;
+  font-weight: 800;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 10px;
+}
+
+.navBarItem {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navBarLink {
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:active {
+  color: blue;
+}
